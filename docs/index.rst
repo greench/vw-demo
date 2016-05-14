@@ -11,4 +11,4 @@ Testing purpose
 This is the list
 
 * `Flash install <http://vw-demo.vivalditips.com/en/latest/flash-player-installation.html?highlight=flash>`_
-* `python <www.python.org>`_
+* (Testing purpose :ref:`testing-purpose`)
