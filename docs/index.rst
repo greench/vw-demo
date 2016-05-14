@@ -5,6 +5,5 @@ This is demo page for vw-demo. Hello there
 
 Overall appearence is **fine**.
 
-* (Flash install http://vw-demo.vivalditips.com/en/latest/flash-player-installation.html?highlight=flash)
-* (like http://www.github.com/)
-	`python <www.python.org>`_
+* `Flash install <http://vw-demo.vivalditips.com/en/latest/flash-player-installation.html?highlight=flash>`_
+* `python <www.python.org>`_
