@@ -7,3 +7,5 @@ Overall appearence is **fine**.
 
 [Test](http://vw-demo.vivalditips.com/en/latest/flash-player-installation.html?highlight=flash)
 
+http://github.com - automatic!
+[GitHub](http://github.com)
