@@ -10,5 +10,5 @@ Testing purpose
 
 This is the list
 
-* [Flash install](http://vw-demo.vivalditips.com/en/latest/flash-player-installation.html)
-* (Testing purpose :ref:`testing-purpose`)
+* [Flash install](./flash-player-installation)
+* [Testing purpose](disable-password-manager)
