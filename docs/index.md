@@ -13,6 +13,5 @@ This is the list
 * [Flash install](./flash-player-installation)
 * [Testing purpose](disable-password-manager)
 
-!!! note 
-This is an extensive vw-demo.
+!!! note "This is an extensive vw-demo."
 **VM demo** __test__ page is creted for testing purposes.
