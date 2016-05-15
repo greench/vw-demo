@@ -39,7 +39,7 @@ extra:
   version: 0.2.2
   logo: images/logo.png
   author:
-    github: squidfunk
+    github: vivalditurkiye
     twitter: vivaldibrowser
 
 # Extensions
@@ -50,5 +50,5 @@ markdown_extensions:
       permalink: '#'
 
 # Page tree
-pages:
-  - Home: index.md
+# pages:i
+#  - Home: index.md
