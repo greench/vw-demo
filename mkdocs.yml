@@ -19,17 +19,17 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: vw-demo
-site_description: A material design theme for MkDocs
-site_author: Martin Donath
-site_url: http://squidfunk.github.io/mkdocs-material/
+site_name: VM DEMO
+site_description: Elegant type
+site_author: 
+site_url: http://vw-demo.vivalditips.com
 
 # Repository
 repo_name: GitHub
 repo_url: https://github.com/squidfunk/mkdocs-material
 
 # Copyright
-copyright: Copyright (c) 2016 Martin Donath
+copyright: License
 
 # Documentation and theme
 theme_dir: material
@@ -40,7 +40,7 @@ extra:
   logo: images/logo.png
   author:
     github: squidfunk
-    twitter: squidfunk
+    twitter: vivaldibrowser
 
 # Extensions
 markdown_extensions:
