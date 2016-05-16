@@ -33,4 +33,4 @@ This project uses following systems.
 * [Read the Docs](https://readthedocs.org/)
 * [Markdown](http://commonmark.org/)
 
-Documents are build for every commit in `master` branch. This buid process takes approximately a minute.
+Documents are builte for every commit in `master` branch. This buid process takes approximately a minute.
