@@ -2,7 +2,7 @@
 
 ## Overview
 
-The guide aims to help you to understand how you can add contents to this project (Wiki-VivaltiTips) easily.
+The guide aims to help you to understand how you can add contents to this project (Wiki.VivaldiTips) easily.
 
 ## Project Pages
 
@@ -11,15 +11,21 @@ The project is live on following web pages :
 * **[Wiki Page](http://vw-demo.vivalditips.com/en/latest/)**
 * **[Repository](https://github.com/greench/vw-demo/tree/master/docs)**
 
-## How To
+## How to Contribute to the Wiki?
+
+### Required Things
+
+* A Github account
+* Basic Markdown Knowledge
+* 
 
 
+## Technologies
 
-
-## Sources
-
-This project is prepared by using following systems/projects.
+This project uses following systems.
 
 * [Github](https://github.com)
 * [Read the Docs](https://readthedocs.org/)
-* [Vivaldi Tips](http://vivalditips.com/)
+* [Markdown](http://commonmark.org/)
+
+Documents are build for every commit in `master` branch. This buid process takes approximately a minute. 
