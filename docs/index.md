@@ -10,7 +10,7 @@ Here is the help guide before you start.
 
 -----------------
 
-#### Content List
+h2. Content List
 
 * [Flash install](./flash-player-installation)
 * [Testing purpose](disable-password-manager)
