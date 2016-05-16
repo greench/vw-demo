@@ -4,29 +4,29 @@ In your desktop or mobile email client create a new IMAP mailbox account using f
 
 ## IMAP Server Settings
 
-> **Server Type:** IMAP Mail Server
+**Server Type:** IMAP Mail Server
 
-> **Server Name:** mail.vivaldi.net
+**Server Name:** mail.vivaldi.net
 
-> **Port:** 993
+**Port:** 993
 
 
 ### Security Settings
 
-> **Connection security:** SSL/TLS
+**Connection security:** SSL/TLS
 
-> **Authentication method:** Plain password
+**Authentication method:** Plain password
 
 ## SMTP Settings
 
-> **Server Name:** mail.vivaldi.net
+**Server Name:** mail.vivaldi.net
 
->**Port:** 465
+**Port:** 465
 
 ### Security Settings
 
-> **Connection security:** SSL/TLS
+**Connection security:** SSL/TLS
 
-> **Authentication method:** Password
+**Authentication method:** Password
 
-> **Username/Password:** same as IMAP settings
+**Username/Password:** same as IMAP settings
