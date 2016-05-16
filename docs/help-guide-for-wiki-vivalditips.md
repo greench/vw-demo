@@ -23,7 +23,11 @@ The project is live on following web pages :
 
   You should check [here](http://commonmark.org/help/) in order to learn basic commands.
 
+### In your locale language
 
+* There are a few locale repository on Github. Go to the repository that is related with your language.
+* Add a new page or edit something. 
+* Request a pull-request.
 
 ## Technologies
 
