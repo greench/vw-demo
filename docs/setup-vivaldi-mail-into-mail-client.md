@@ -33,4 +33,4 @@ In your desktop or mobile email client create a new IMAP mailbox account using f
 
 --------------------
 
-![OM Accounts View](http://res.cloudinary.com/vivaldi/image/upload/v1463470457/vivaldi-om-hesap-detaylar%C4%B1_dqcbif.png)
+![OM Accounts View](/images/mail.jpg)
