@@ -1,1 +1,0 @@
-As far as I know, disabling the password functionality is not yet available. As a workaround to avoid having to deal with the prompt every time you might try enabling the Save passwords automatically flag at vivaldi://flags. That might or might not be acceptable to you, as it would automatically save your passwords in Vivaldi in addition to LastPass.
