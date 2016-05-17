@@ -35,7 +35,6 @@ copyright: License
 
 # Documentation and theme
 theme_dir: material
-theme: ""
 
 # Options
 extra:
