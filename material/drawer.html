@@ -1,7 +1,6 @@
 <a href="{{ repo_url }}{{ current_page.input_path }}.md" class="icon icon-github"> Edit on GitHub</a>
 <nav aria-label="Navigation">
-  {% set home = repo_url | default("/", true) %}
-  <a href="{{ home }}" class="project">
+  <a href="/" class="project">
     <div class="banner">
       {% if config.extra.logo %}
         <div class="logo">
