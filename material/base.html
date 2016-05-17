@@ -116,7 +116,7 @@
             using the
             <a href="http://squidfunk.github.io/mkdocs-material/" target="_blank">
               Material
-            </a> theme. 
+            </a> theme. {% if current_page %}<a href="{{ repo_url }}/blob/{{ config.remote_branch }}/docs/{{ current_page.input_path }}.md" class="icon icon-github"> Edit on GitHub</a>{% endif %}
           </aside>
           {% block footer %}
             <footer class="footer">
