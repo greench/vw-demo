@@ -17,6 +17,3 @@ Check Flash plugin shows PPAPI setting after install by visiting vivaldi://plugi
 
 ![v](/images/flash.gif)
 
-
-![v](https://raw.githubusercontent.com/greench/vw-demo/master/images/flash.gif)
-
