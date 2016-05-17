@@ -1,4 +1,6 @@
 {% if current_page %} {{ current_page.input_path }} {% endif %}
+--
+{% if page %} {{ page.input_path }} {% endif %}
 <a href="{{ repo_url }}/blob/{{ config.remote_branch }}/docs/{{ current_page }}.md" class="icon icon-github"> Edit on GitHub</a>
 <nav aria-label="Navigation">
   <a href="/" class="project">
