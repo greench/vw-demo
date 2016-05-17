@@ -1,5 +1,5 @@
 <nav aria-label="Navigation">
-  {% set home = repo_url | default("/", true) %}
+  {% set home = default("/", true) | repo_url %}
   <a href="{{ home }}" class="project">
     <div class="banner">
       {% if config.extra.logo %}
