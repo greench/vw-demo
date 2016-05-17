@@ -4,6 +4,7 @@
     <div class="banner">
       {% if config.extra.logo %}
         <div class="logo">
+          {{ default("/", true) }}
           <img src="{{ base_url }}/{{ config.extra.logo }}">
         </div>
       {% endif %}
