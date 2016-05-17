@@ -33,4 +33,4 @@ In your desktop or mobile email client create a new IMAP mailbox account using f
 
 --------------------
 
-![OM Accounts View](/images/mail.jpg)
+![OM Accounts View](/images/mail.png)
