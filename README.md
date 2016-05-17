@@ -1,5 +1,5 @@
 TEST REPO
 =========
 
-![](https://readthedocs.org/projects/vw-demo/badge/?version=latest)
+![](https://readthedocs.org/vw-demo/badge/?version=latest)
 
