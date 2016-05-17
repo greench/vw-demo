@@ -23,10 +23,26 @@ The project is live on following web pages :
 
   You should check [here](http://commonmark.org/help/) in order to learn basic commands.
 
+### Create a new document
+
+Open the main repo and create a new file:
+
+* New file should be recorded as **.MD** file type.
+* File name should be the same as the file URL , like;
+  How to disable flash? / how-to-disable-flash
+* All documents should be save under /Docs path
+
+### Adding image
+
+You can add many type of images into your file. Recommended file types are **.JPG** and **.PNG**. We do not recommend **.GIF** files as well.
+
+* All images should be under **/Docs/Images** path
+
+
 ### In your locale language
 
 * There are a few locale repository on Github. Go to the repository that is related with your language.
-* Add a new page or edit something. 
+* Add a new page or edit something.
 * Request a pull-request.
 
 ## Technologies
