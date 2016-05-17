@@ -1,5 +1,5 @@
 TEST REPO
 =========
 
-![](http://vw-demo.vivalditips.com/en/latest/?badge=latest)
+![](https://readthedocs.org/projects/vivalditurkiye-demo/badge/?version=latest)
 
