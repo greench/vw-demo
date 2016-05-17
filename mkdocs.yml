@@ -48,6 +48,8 @@ extra:
 markdown_extensions:
   - codehilite(css_class=code)
   - admonition
+  - smarty
+  - tables
   - toc:
       permalink: '⚓'
 
