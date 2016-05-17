@@ -15,4 +15,4 @@ Installing Flash Player for Vivaldi
 
 Check Flash plugin shows PPAPI setting after install by visiting vivaldi://plugins
 
-![v](/images/flash.gif)
+![v](https://github.com/greench/vw-demo/blob/master/images/flash.gif)
