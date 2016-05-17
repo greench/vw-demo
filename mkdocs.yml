@@ -34,7 +34,7 @@ remote_branch: master
 copyright: License
 
 # Documentation and theme
-theme_dir: 'material'
+theme_dir: material
 theme: ''
 
 # Options
