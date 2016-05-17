@@ -20,13 +20,16 @@
 
 # Project information
 site_name: VM DEMO
-site_description: Elegant type
+site_description: VM Demo
 site_author: 
 site_url: http://vw-demo.vivalditips.com
+github_user: greench
+github_repo: vw-demo
+github_version: master
 
 # Repository
 repo_name: GitHub
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_url: https://github.com/greench/vw-demo
 
 # Copyright
 copyright: License
