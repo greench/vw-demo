@@ -27,7 +27,8 @@ site_url: http://vw-demo.vivalditips.com
 # Repository
 repo_name: GitHub
 repo_url: https://github.com/greench/vw-demo
-repo_branch : master
+repo_branch: master
+remote_branch: master
 
 # Copyright
 copyright: License
