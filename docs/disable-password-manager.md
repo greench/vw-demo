@@ -7,4 +7,4 @@ Vivaldi'de henüz şifrelerin kaydedilmesi ile ilgili bir ayar bulunmuyor ve her
 1- Adres satırına "chrome://settings/search#a" (tırnak işareti olmadan) yazın ve bu ayara gidin.
 2- Açılan sayfada Şifreler ve formlar altındaki Web şifrelerimi kaydetmeyi öner ayarını devre dışı bırakın.
 
-![şifre hatırlatma](./images/disablepass.png)
+![şifre hatırlatma](/images/disablepass.png)
