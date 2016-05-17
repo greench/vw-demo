@@ -30,3 +30,7 @@ In your desktop or mobile email client create a new IMAP mailbox account using f
 **Authentication method:** Password
 
 **Username/Password:** same as IMAP settings
+
+--------------------
+
+![OM Accounts View](http://res.cloudinary.com/vivaldi/image/upload/v1463470457/vivaldi-om-hesap-detaylar%C4%B1_dqcbif.png)
