@@ -6,7 +6,7 @@ Welcome to the Wiki-VivaldiTips pages. You can find many usefull information abo
 ----------------
 ## Help
 
-Here is the help guide before you start. [HelpGuide for Wiki-VivaldiTips](http://vw-demo.vivalditips.com/en/latest/help-guide-for-wiki-vivalditips/)
+Here is the help guide before you start. [HelpGuide for Wiki-VivaldiTips](help-guide-for-wiki-vivalditips.md)
 
 !!! note "This is an extensive vw-demo."
 **VM demo** __test__ page is creted for testing purposes.
