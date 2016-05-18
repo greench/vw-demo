@@ -14,4 +14,4 @@ Flash player’ı yükledikten sonra tarayıcınızı **yeniden açın ya da yen
 
 İpucu: [vivaldi://plugins](vivaldi://plugins) sayfasını ziyaret ederek flash yan uygulamasının PPAPI ayarını gösterip göstermedini kontrol edin.
 
-![v](/images/flash.gif)
+![v](../images/flash.gif)

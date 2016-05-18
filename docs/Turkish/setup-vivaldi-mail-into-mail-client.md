@@ -33,6 +33,6 @@ Vivadli e-posta hesabınızı masaüstü ya da mobil e-posta istemcisinize aşa�
 
 --------------------
 
-![OM Accounts View](/images/mail.png)
+![OM Accounts View](../images/mail.png)
 
 _Not: yukarıdaki ayarlar Opera Mail istemcisinden alınmıştır._
