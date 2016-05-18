@@ -1,4 +1,4 @@
-![1 pass](/images/1pass.png)
+![1 pass](../images/1pass.png)
 
 As we received quite a few questions about using 1Password with Vivaldi, we wrote this article with the help of 1Password team to help you using 1Password smoothly.
 
