@@ -1,21 +1,20 @@
 <nav aria-label="Navigation">
-  <a href="/" class="project">
+  {% set home = base_url | default("/", true) %}
+  <a href="{{ home }}" class="project">
     <div class="banner">
       {% if config.extra.logo %}
         <div class="logo">
           <img src="{{ base_url }}/{{ config.extra.logo }}">
         </div>
       {% endif %}
+      
       <div class="name">
         <strong>
           {{ site_name }}
-          <span class="version">
-            {{ config.extra.version }}
-          </span>
         </strong>
-        {% if repo_id %}
+        {% if config.site_description %}
           <br>
-          {{ repo_id }}
+          {{ config.site_description }}
         {% endif %}
       </div>
     </div>
@@ -45,8 +44,9 @@
             {% include "nav.html" %}
           {% endfor %}
         </ul>
-        <hr>
         {% if config.extra.author %}
+          <hr>
+          <span class="section">The author</span>
           <ul>
             {% if config.extra.author.twitter %}
               {% set author = config.extra.author.twitter %}

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="no-js ie6"><![endif]-->
-<!--[if IE 7 ]><html class="no-js ie7"><![endif]-->
-<!--[if IE 8 ]><html class="no-js ie8"><![endif]-->
-<!--[if IE 9 ]><html class="no-js ie9"><![endif]-->
+<!--[if lt IE 7 ]> <html class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="no-js ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
   <head>
     <meta charset="utf-8">
@@ -53,9 +53,9 @@
       	font-style: normal;
       }
     </style>
-    <link rel="stylesheet" href="{{ base_url }}/assets/stylesheets/application-d83054620e.css">
+    <link rel="stylesheet" href="{{ base_url }}/assets/stylesheets/application-bae518e85e.css">
     {% if config.extra.palette %}
-      <link rel="stylesheet" href="{{ base_url }}/assets/stylesheets/palettes-05ab2406df.css">
+      <link rel="stylesheet" href="{{ base_url }}/assets/stylesheets/palettes-b1304a1b55.css">
     {% endif %}
     {% if config.extra.font != "none" %}
       {% set text = config.extra.get("font", {}).text | default("Ubuntu") %}
@@ -74,7 +74,7 @@
     {% for path in extra_css %}
       <link rel="stylesheet" href="{{ path }}">
     {% endfor %}
-    <script src="{{ base_url }}/assets/javascripts/modernizr-4ab42b99fd.js"></script>
+    <script src="{{ base_url }}/assets/javascripts/modernizr-4a5cc7e01e.js"></script>
     {% block extrahead %}{% endblock %}
   </head>
   {% set palette = config.extra.get("palette", {}) %}
@@ -116,7 +116,8 @@
             using the
             <a href="http://squidfunk.github.io/mkdocs-material/" target="_blank">
               Material
-            </a> theme. {% if current_page %}<a href="{{ repo_url }}/blob/{{ config.remote_branch }}/docs/{{ current_page.input_path }}"><span class="icon icon-github"></span>Edit on GitHub</a>{% endif %}
+            </a>
+            theme. {% if current_page %}<a href="{{ repo_url }}/blob/{{ config.remote_branch }}/docs/{{ current_page.input_path }}.md" class="icon icon-github"> Edit on GitHub</a>{% endif %}
           </aside>
           {% block footer %}
             <footer class="footer">
@@ -138,7 +139,7 @@
       var base_url = '{{ base_url }}';
       var repo_id  = '{{ repo_id }}';
     </script>
-    <script src="{{ base_url }}/assets/javascripts/application-997097ee0c.js"></script>
+    <script src="{{ base_url }}/assets/javascripts/application-bc6e398cc3.js"></script>
     {% for path in extra_javascript %}
       <script src="{{ path }}"></script>
     {% endfor %}
