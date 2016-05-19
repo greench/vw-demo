@@ -2,12 +2,9 @@
   {% set home = base_url | default("/", true) %}
   <a href="{{ home }}" class="project">
     <div class="banner">
-      {% if config.extra.logo %}
-        <div class="logo">
-          <img src="{{ base_url }}/{{ config.extra.logo }}">
-        </div>
-      {% endif %}
-
+      <div class="logo">
+        <img src="/images/logo.png">
+      </div>
       <div class="name">
         <strong>
           {{ site_name }}
@@ -15,7 +12,7 @@
         {% if config.site_description %}
           <br>
           {{ config.site_description }}
-        {% endif %}
+        {% endif %}dd
       </div>
     </div>
   </a>
@@ -46,6 +43,7 @@
         </ul>
         {% if config.extra.author %}
           <hr>
+          <span class="section">The author</span>
           <ul>
             {% if config.extra.author.twitter %}
               {% set author = config.extra.author.twitter %}

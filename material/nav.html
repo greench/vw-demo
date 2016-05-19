@@ -1,7 +1,7 @@
 {% if nav_item.children %}
   <li>
     <span class="section">{{ nav_item.title }}</span>
-    <ul>
+    <ul class="{% if nav_item.active %}show-section{% endif %}">
       {% for nav_item in nav_item.children %}
         {% include "nav.html" %}
       {% endfor %}
