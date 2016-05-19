@@ -19,8 +19,8 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: VM DEMO
-site_description: VM Demo
+site_name: Vivaldi Wiki
+site_description: A wiki from Sopranos
 site_author: 
 site_url: http://vw-demo.vivalditips.com/en/latest/
 
@@ -30,14 +30,16 @@ repo_url: https://github.com/greench/vw-demo
 remote_branch: master
 
 # Copyright
-copyright: License
+copyright: The content of this site is licensed under the GNU GPLv3.
 
 # Documentation and theme
 theme_dir: material
 
 # Options
 extra:
-  version: 0.2.2
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
   logo: images/logo.png
   author:
     github: vivalditurkiye
@@ -55,3 +57,4 @@ markdown_extensions:
 # Page tree
 # pages:i
 #  - Home: index.md
+
